@@ -19,5 +19,4 @@ function showPosition(position) {
     "<br>Longitude: " +
     position.coords.longitude;
 }
-
-getLocation();
+getLocation()
